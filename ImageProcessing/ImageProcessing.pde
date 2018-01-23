@@ -1,3 +1,20 @@
+/**
+ * Simon-Albert Boudreault
+ * Image Processing
+ * 23/01/18
+ **/
+ 
+/**
+DESCRIPTION
+I started this assignment after following a PImage tutorial on youtube, made by Daniel
+Shiffman (https://youtu.be/NbX3RnlAyGU). I was interested in the idea of not drawing the
+actual image on screen, and only use it as a source of information to draw basic shapes.
+
+CONTROLS
+Left click: reveal
+Right click: save picture
+ **/
+ 
 PImage sa1;
 PImage sa2;
 Particle[] particles;
