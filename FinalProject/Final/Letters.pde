@@ -7,6 +7,10 @@ class Letters {
   int textBounds;
   String message;
 
+  PFont font;
+  String[] lines;
+  String str;
+
   Letters(int newInlineX, int newInlineY, int newTextBounds) {
     i = 0;
     j = 0;
@@ -16,6 +20,12 @@ class Letters {
     inlineX = newInlineX;
     inlineY = newInlineY;
     textBounds = newTextBounds;
+
+    font = loadFont("Meiryo-12.vlw");
+    textFont(font, 12);
+    str = ""+"text.md";
+    lines = loadStrings(str);
+    textAlign(CENTER, CENTER);
   }
 
   void draw() {
