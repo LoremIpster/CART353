@@ -1,37 +1,34 @@
-
 class Letters {
-  int i=0, j=0;
-  int x=10, y=15;
-  int charCount;
-  int inlineX = 10;
-  int inlineY = 0;
-  int textBounds = 55;
-  String message;
-  
 
-/*
-  void draw() {
-    translate(0, 20);
-    fill(0, 0, 0);
+  int i, j, x, y;
+  int charCount;
+  int inlineX;
+  int inlineY;
+  int textBounds;
+  String message;
+
+  Letters(int newInlineX, int newInlineY, int newTextBounds) {
+    i = 0;
+    j = 0;
+    x = 10;
+    y = 10;
+
+    inlineX = newInlineX;
+    inlineY = newInlineY;
+    textBounds = newTextBounds;
   }
 
-  void mousePressed()
-  {
-    draw();
-  }*/
+  void draw() {
+    translate(0, 20);
+  }
 
   void type() {
+    fill(0, 0, 0);
     if (i<lines.length) {
       message = lines[i];
     }
-
-    //println("inlineX " + inlineX + ", inlineY is " + inlineY);
     if (j < message.length()) {
       if (charCount > textBounds) {
-        //println("beep");
-        //y += 15;
-        //x += 10;
-        //inlineX += 10;
         inlineY += 15;
         charCount = 0;
       }
