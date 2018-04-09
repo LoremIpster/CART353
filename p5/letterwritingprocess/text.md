@@ -1,0 +1,118 @@
+# 1
+"<v_impe>" ce que ça fait quand ça arrive ici. "<v_impe>" à cette sensation des "<n_fp>" qui ramollissent en toi, profite de cette émotion délicieuse, "<v_impe>". "<v_impe>". Ce n’est pas fini. ça va "<v_infi>" encore."
+
+# 2
+Laisse ton ventre <v_infi> à ce <n_ms> <adj_ms> qui, depuis si longtemps, ne te tombait plus dessus, <v_impe> de ces <n_mp> de <n_fs> que tu n’<v2s_impa> plus et qui te donnent la chair de poule et qui ouvrent sans effort ton <n_ms> à cette <n_fs> qui est <adj_ms> et que tu ne <v2s_impa> plus, il n’est même plus question de <n_ms>, nous sommes de l’autre côté maintenant, tout ça ne fait que <v_infi> mais tu es déjà <v_pc> pour toujours, <v_impe>, n’essaie pas encore d’affirmer <n_ms>, <v_impe> plus loin encore, <v_impe>, voilà, tu es <adj_ms>, <v_impe>, <v_impe>,
+tu es <adj_ms>, maintenant surtout ne te retiens pas, laisse-toi <v_infi> par ce <n_ms> exquis qui valse de <n_mp> aussi colorés que les <n_mp> de la jungle, <v_impe> pendant des jours, <v_impe> en plein soleil, et quand tu en auras assez tu te <v2s_fut> encore et tu <v2s_fut> encore et tu <v2s_fut> encore. Je n’en ai pas <v_pc> avec toi. Tu vois ? Il y a plein de <n_fp> intéressantes sur le chemin. Ne va pas te dépêcher à <v_infi>.
+
+# 3
+Une seule règle : ne pas <v_infi> par la <n_fs>. On regarde cet homme qu’on aime et il ne nous appartient pas et il ne nous appartiendra jamais et il s’appartient et il est <adj_ms> et <adj_ms>, il est <adj_ms>, maintenant, il est <adj_ms> et peut-être pas plus tard et c’est maintenant et pas demain qu’il nous faut <v_infi> de lui. Il n’est pas un <n_ms> dans le salon de notre vie <adj_fs>, il n’est pas un <n_ms> dans notre parti, il n’est pas quelque chose qu’il faille <v_infi> et <v_infi> quelque part comme un <n_ms> empaillé. À quoi bon <v_infi> du futur en s’entourant de toutes sortes de <n_fp> si nous sommes incapables de <v_infi> de la présence de l’autre aujourd’hui ?
+
+# 4
+Pourquoi vouloir être le <n_ms> ? Pourquoi t’en assurer jusqu’à <v_infi> secrètement dans mes <n_mp> comme si tu étais la NSA ? Si je suis <adj_ms> et que je suis mes <n_mp>, tu me trouveras plus <adj_fs>, plus <adj_fs>, plus <adj_fs>. Plus <adj_fs>. Tu m’aimeras et me <v2s_fut> encore davantage. Pourquoi me demander de rendre les armes et d’abandonner la <n_fs> que j’ai de te <v_infi> ?
+
+# 5
+Les <n_fp> amoureuses dans lesquelles je <v2s_impa> répondaient toutes à ma quête d’un partage entre deux <n_mp> qui serait absolument <adj_ms> et <adj_ms>. Au début, j'<v2s_impa> que cela était compatible avec le <n_ms>. Mais puisque j’enchainais les <n_fp> de trois ans en trois ans, j’ai baissé mes <n_fp>, dans l’espoir que mes <n_fp> tiennent. Et mon <n_ms> s’est tordu.
+
+# 6
+Ce n’est pas la <n_fs> de l’union qui est importante, encore moins sa <n_fs>. C’est sa <n_fs> dans le présent, c’est sa <n_fs> humaine, c’est cet aliment infiniment <adj_fs> à l’humain que l’union porte en elle, cet aliment de cohumanité, de <n_fs> qui se lie en direct, l’aliment les autres sans lequel nous ne serions pas des <n_mp>.
+
+# <V_IMPE>
+écoute
+relâche
+attache-toi
+délecte
+abandonne-toi
+jouis
+dors
+
+# <V_PC>
+transformé
+terminé
+
+# <V_INFI>
+lever
+s'abandonner
+commencer
+affirmer
+avaler
+arriver
+se laisser
+jouir
+arrêter
+installer
+s'assurer
+profiter
+fouiller
+renverser
+
+# <ADJ_MS>
+libre
+partout
+magnifique
+exquis
+là
+lucide
+vrai
+
+# <ADJ_FS>
+organisée
+libre
+pleine
+impressionnante
+belle
+déstabilisante
+nécessaire
+
+# <V2S_IMPA>
+espérais
+voyais
+plongeais
+croyais
+
+# <V2P_FUT>
+nourriras
+jouiras
+dormiras
+respecteras
+
+# <NS_M>
+rire
+regard
+courage
+quelque chose
+sommeil
+meuble
+atout
+animal
+seul et unique
+couple
+ventre
+
+# <NS_F>
+décompression
+beauté
+peur
+force
+nature
+durée
+richesse
+touffeur
+meute
+
+# <NP_M>
+soupirs
+rêves
+oiseaux
+courriels
+désirs
+humains
+couples
+humains
+
+# <NP_F>
+choses
+règles
+relations
+faillites
+attentes
