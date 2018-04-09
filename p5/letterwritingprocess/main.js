@@ -1,33 +1,57 @@
+// var xhr = new XMLHttpRequest();
+// xhr.open("GET", "https://github.com/saboudreault/CART353/blob/master/p5/letterwritingprocess/grammar.json", true);
+// xhr.onreadystatechange = function() {
+//   if (xhr.readyState == 4) {
+//     document.getElementById("resp").innerText = xhr.responseText;
+//   }
+// }
+// xhr.send();
+
 var rg;
 var bg;
 var ltr;
 var timer;
 var maxTime;
+var start;
 
 function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
   background(255);
 
   rg = new RiGrammar();
-  rg.loadFrom("grammar.json");
-  result = rg.expand();
+  rg.loadFrom("https://github.com/saboudreault/CART353/blob/master/p5/letterwritingprocess/grammar.json");
+  //result = rg.expand();
 
   bg = new Colors(2, 220, 500);
   ltr = new Letters(window.innerWidth/4, 200, 300);
 
   maxTime = 10;
   timer = maxTime;
+
+  rg = new RiGrammar();
+  rg.addRule('<start>','<1> | <2> | <3> | <4> | <5> | <6>');
+  rg.addRule('<1>','<v_impe> ce que ça fait quand ça arrive ici. <v_impe> à cette sensation des <n_fp> qui ramollissent en toi, profite de cette émotion délicieuse, <v_impe>. <v_impe>. Ce n’est pas fini. ça va <v_infi> encore.');
+  rg.addRule('<2>','');
+  rg.addRule('<3>','');
+  rg.addRule('<4>','');
+  rg.addRule('<5>','');
+  rg.addRule('<6>','');
+
+
 }
 
 function draw() {
-  bg.update();
-  bg.timer();
+  if (start) {
+    bg.update();
+    bg.timer();
+  }
 }
 
 function keyPressed(){
   bg.randomize();
   ltr.type();
   timer = maxTime;
+  start = true;
 }
 
 class Colors {
@@ -120,4 +144,6 @@ class Letters {
       this.i++;
     }
   }
+
+
 }
