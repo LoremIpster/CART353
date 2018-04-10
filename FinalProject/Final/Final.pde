@@ -7,7 +7,6 @@ Background bg;
 Letters ltr;
 
 boolean hasStarted;
-
 void setup() {
   size(1024, 768);
   background(255);
